@@ -26,7 +26,7 @@ If you want to start reading into the system please start with [[Nightmare Spell
 - [[System/Stats|Stats]]
 - [[Rolling with Hope and Fear]]
 - [[System/Combat Action Economy|Combat Action Economy]]
-- [[System/Nightmare Creature|Nightmare Creature]]
+- [[Nightmare Creatures|Nightmare Creatures]]
 
 ### DM stuff
 - TODO, you can find it but it just didn't think it necessary to link it here

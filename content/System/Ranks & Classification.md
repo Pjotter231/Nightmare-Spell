@@ -4,7 +4,7 @@ Ranks relate to the overall strength of a being. While their class determines th
 
 For example a Nightmare creature ranked as a Great Beast will have the strength of Great being but the intelligence and non existent special abilities of a Beast. Where as an Awakened Devil will have the strength of an awakened but the intelligence and special abilities seen in Devils. 
 
-More on this can be read [[Nightmare Creature|here]] where more details on nightmare creatures and their classification can be found. 
+More on this can be read [[Nightmare Creatures|here]] where more details on nightmare creatures and their classification can be found. 
 
 | Nightmare Creatures | Human (Awakened) |             | General   |             |
 | ------------------- | ---------------- | ----------- | --------- | ----------- |
@@ -26,4 +26,4 @@ Nightmare creatures however walk the path of corruption, ever getting closer to 
 Creatures, both human and monster exponentially become stronger the higher they go up in ranks. There is a lot to be said here but for now this is enough.
 # Humans
 Normally humans are unable to gain more soul cores, however rare cases do exist. Ones where humans received a Divine aspect, which allows them to over saturate their cores to gain new ones.
-Unlike [[Nightmare Creature]]s this does not give them the same supernatural powers. It does however extend their aspect. Potentially increasing the range, power or quantity etc etc of their abilities. 
+Unlike [[Nightmare Creatures]] this does not give them the same supernatural powers. It does however extend their aspect. Potentially increasing the range, power or quantity etc etc of their abilities. 

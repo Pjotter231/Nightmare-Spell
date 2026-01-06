@@ -1,4 +1,4 @@
-Nightmare creatures come in varying shapes forms and [[Ranks & Classification||ranks]].
+Nightmare creatures come in varying shapes forms and [[Ranks & Classification|ranks]].
 
 ### Creature ranks
 - Beasts are simple creatures, often no more than a wild aggressive animal albeit with potentially huge amounts of strength but otherwise mundane.
