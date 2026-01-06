@@ -1,1 +1,0 @@
-By Matt Mercer gang

@@ -1,11 +1,15 @@
 ---
 title: Welcome to Nightmare Spell
 ---
-
 # Nightmare Spell
 
-Welcome to the Nightmare Spell TTRPG documentation.
+Nightmare Spell is a system build to allow anyone to make a unique character with help of their DM. The system focuses on creativity to truly bring alive someone's fantasy over picking a pre-set amount of skills or abilities to 'get close' to their fantasy.
 
+This is done using the two (three) core ideas behind a characters uniqueness. 
+Their Aspect & Flaw and their Experiences.
+
+## Start reading
+If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for more specific 
 ## System
 
 - [[System/Stats|Stats]]
@@ -17,11 +21,7 @@ Welcome to the Nightmare Spell TTRPG documentation.
 - [[System/Aspects & Flaws|Aspects & Flaws]]
 - [[System/Tarot Cards|Tarot Cards]]
 
-## Content
-
-- [[Nightmare Spell/Nightmare Spell|Nightmare Spell]]
-
 ## References
 
-- [[TTRPGsPlagiarized/Daggerheart|Daggerheart]]
+- [[Daggerheart|Daggerheart]]
 

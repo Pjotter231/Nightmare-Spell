@@ -3,4 +3,6 @@ Nightmare Spell is a system build to allow anyone to make a unique character wit
 This is done using the two (three) core ideas behind a characters uniqueness. 
 Their Aspect & Flaw and their Experiences.
 
+![[Aspects & Flaws]]
+
 ![[Experience]]
