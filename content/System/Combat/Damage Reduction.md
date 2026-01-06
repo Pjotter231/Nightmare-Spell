@@ -9,8 +9,9 @@ Below is an example damage table of a Sleeper wearing [[Ranks & Classification|d
 | **Mind**         | 1       | 2           | 4       | 8         | 16           |
 | **Flesh & Bone** | 2       | 4           | 6       | 12        | 20           |
 | **Soul**         | 1       | 1           | 2       | 2         | 4            |
+
 Alternative way of writing:
-Body: Minor 2 - Moderate 4 - Major 6 - Massive 12 - Lethal 20
+**Flesh & Bone**: Minor 2 - Moderate 4 - Major 6 - Massive 12 - Lethal 20
 The way you 'calculate' damage is taking the incoming damage and looking up where it falls on the table. Using the rule 'meets it beats it'. So for example our Sleeper taking 4 body damage would have them mark of 2 body chunks. Up until 11 damage this would remain as 2 chunks.
 ### Upgrading resistances
 As briefly mentioned before gear can increase your resistances. Armour, amulets, rings, aspect abilities and more can all increase or even decrease your resistances to these 3 damage types.
