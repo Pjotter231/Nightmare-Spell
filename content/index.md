@@ -11,13 +11,14 @@ Their Aspect & Flaw and their Experiences.
 
 Further it uses mainly [[Daggerheart]] for other mechanics such as combat, action rolling etc etc. These are then tweaked to better suit the Nightmare Spell TTRPG.
 
+## Discloser
+Despite being hosted publicly, I'm making this pretty much for friends only so this might be missing (a lot of) information if you came across this and are intending to run a game yourself. I'll most likely not post much GM help here as I honestly want to keep it a secret to the players.
+
 ## Start reading
 If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom.
 
-The site
-
 # Lore
-- TODO
+- TODO, but I'm debating only telling you about the human world
 # System
 #### Basics
 - [[System/Aspects & Flaws|Aspects & Flaws]]
@@ -29,7 +30,6 @@ The site
 
 ### DM stuff
 - TODO, you can find it but it just didn't think it necessary to link it here
-
 
 ## References
 - [[Daggerheart]]
