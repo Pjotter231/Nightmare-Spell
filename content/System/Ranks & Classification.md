@@ -1,0 +1,29 @@
+Both humans and nightmare creatures have seven ranks of strength. And seven different classes to categorize them.
+
+Ranks relate to the overall strength of a being. While their class determines their intelligence and ability for supernatural powers.
+
+For example a Nightmare creature ranked as a Great Beast will have the strength of Great being but the intelligence and non existent special abilities of a Beast. Where as an Awakened Devil will have the strength of an awakened but the intelligence and special abilities seen in Devils. 
+
+More on this can be read [[Nightmare Creature|here]] where more details on nightmare creatures and their classification can be found. 
+
+| Nightmare Creatures | Human (Awakened) |             | General   |             |
+| ------------------- | ---------------- | ----------- | --------- | ----------- |
+| Ranks               | Name             | Soul Rank   | Classes   | Soul Cores  |
+| (Quality)           | (By Humanity)    | (Quality)   | (Special) | (Qn Amount) |
+| -                   | Human            | -           | -         | -           |
+| Dormant             | Sleeper          | Dormant     | Beast     | 1           |
+| Awakened            | Awakened         | Awakened    | Monster   | 2           |
+| Fallen              | Master           | Ascended    | Demon     | 3           |
+| Corrupted           | Saint            | Transcended | Devil     | 4           |
+| Great               | Sovereign        | Supreme     | Tyrant    | 5           |
+| Cursed              | Spirit           | Sacred      | Terror    | 6           |
+| Unholy              | God              | Divine      | Titan     | 7           |
+# Path of Ascension and Corruption
+The only difference between human and nightmare creatures is that humans walk the path of ascension, ever getting closer to godhood. Human Transcended, also called Saints, for example are also referred to as minor demi-gods as their strength rivals that of one.
+
+Nightmare creatures however walk the path of corruption, ever getting closer to the unholy rank. Though their strength is not any lesser than that of those of the same rank in ascension, their mind is bend towards extinguishing the flame in those walking the path of ascension.
+# Ranks
+Creatures, both human and monster exponentially become stronger the higher they go up in ranks. There is a lot to be said here but for now this is enough.
+
+# Humans
+Special humans can have Divine aspects which give them a similar progression as nightmare creatures for their soul core amount. Going from Beast to Titan.

@@ -1,4 +1,4 @@
-Aspects and Flaws are the very core of what makes the Shadow Slave, which this TTRPG is inspired by, what it is. They will hopefully be unique for every player and leave everyone satisfied.  Aspects are character unique abilities. Imagine them to be your superpower's theme. And consists of one or multiple aspect abilities depending on a characters [[Ranks]]
+Aspects and Flaws are the very core of what makes the Shadow Slave, which this TTRPG is inspired by, what it is. They will hopefully be unique for every player and leave everyone satisfied.  Aspects are character unique abilities. Imagine them to be your superpower's theme. And consists of one or multiple aspect abilities depending on a characters [[Ranks & Classification]]
 
 Upon beating the first nightmare trial you gain your aspect & flaw. 
 

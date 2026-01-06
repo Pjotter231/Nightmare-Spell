@@ -14,7 +14,7 @@ High knowledge allows you to recall more about previously obtained information, 
 ## When don't they matter
  What makes Nightmare Spell different from more traditional TTRPGs is that this is a roleplay game first. If your character would normally be able to lockpick a simple lock because they've gotten good enough at it over the ranks no roll might be required. Or if one has sufficient proof of an affair, one might not even need to roll intimidation to blackmail them. Or perhaps you've used specific runes already. The DM won't call for a roll in these cases and simply let your character do it.
 # Essence
-Besides the four health bars players have a Essence bar. This one starts at 5, which grows with [[Ranks]]. Essence is spend by using aspect abilities or doing an exhausting action that requires additional essence. Essence can also be spend to increase their roll or evasion.
+Besides the four health bars players have a Essence bar. This one starts at 5, which grows with [[Ranks & Classification]]. Essence is spend by using aspect abilities or doing an exhausting action that requires additional essence. Essence can also be spend to increase their roll or evasion.
 
 One can see it as their mana, except for that this energy can also enhance their body.
 
