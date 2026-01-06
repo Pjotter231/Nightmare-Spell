@@ -17,3 +17,5 @@ Experiences come in two forms. +2 and +1. You start of with one +2 and one +1 ex
 
 ### Heads up
 If you consistently use the same Experience on every roll, the GM will likely ask you to narrow the scope of that Experience or change it altogether. Experiences are meant to reflect the way your character has specialized in something important, not give you a bonus to all your actions. Creativity to how to apply your experience will be rewarded, but don't push it on top of every roll.
+
+For example if you really need to succeed the first time you might convince the GM to use "Never again", as to not have to do it again. However applying this to every roll will become repetitive and over used.

@@ -6,3 +6,6 @@ Their Aspect & Flaw and their Experiences.
 ![[Aspects & Flaws]]
 
 ![[Experience]]
+
+## Character creation:
+To create a character

@@ -1,14 +1,14 @@
-Damage is marked of as chunks. However incoming damage won't directly correlate to how many chunks to mark off.  [[Health|Mind, Body and Soul chunks]] have the ability to reduce damage taken. 
+Damage is marked of as chunks. However incoming damage won't directly correlate to how many chunks to mark off.  [[Health|Mind, Flesh & Bone and Soul chunks]] have the ability to reduce damage taken. 
 
 You will most likely have some resistances per damage type. At least to body to start. These will grow as you get gear or increase your [[Ranks]].
 
 Below is an example damage table of a Sleeper wearing [[Ranks|dormant]] leather armour. A sleeper does not yet have a lot of gear to increase their mind & soul resistance. However their leather armour is giving them some physical resistance. 
 
-|          | Minor 1 | Moderate  2 | Major 3 | Massive 4 | **Lethal** 6 |
-| -------- | ------- | ----------- | ------- | --------- | ------------ |
-| **Mind** | 1       | 2           | 4       | 8         | 16           |
-| **Body** | 2       | 4           | 6       | 12        | 20           |
-| **Soul** | 1       | 1           | 2       | 2         | 4            |
+|                  | Minor 1 | Moderate  2 | Major 3 | Massive 4 | **Lethal** 6 |
+| ---------------- | ------- | ----------- | ------- | --------- | ------------ |
+| **Mind**         | 1       | 2           | 4       | 8         | 16           |
+| **Flesh & Bone** | 2       | 4           | 6       | 12        | 20           |
+| **Soul**         | 1       | 1           | 2       | 2         | 4            |
 Alternative way of writing:
 Body: Minor 2 - Moderate 4 - Major 6 - Massive 12 - Lethal 20
 The way you 'calculate' damage is taking the incoming damage and looking up where it falls on the table. Using the rule 'meets it beats it'. So for example our Sleeper taking 4 body damage would have them mark of 2 body chunks. Up until 11 damage this would remain as 2 chunks.

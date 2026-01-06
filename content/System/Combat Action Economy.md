@@ -22,4 +22,4 @@ You'd do some really cool acrobatics and stab a bandit chief in the skull! Aaaan
 - You no longer 'have to' get the optimal useage out of all your actions. You can just do what you want to do.
 
 ## With great power...
-Now this puts a LOT of agency in the hands of players. And this means that everyone at the table or discord call, will have to be responsible with it. Take care not to hog the spotlight. Try asking for help to do something in game, and give it freely when asked.
+Now this puts a LOT of agency in the hands of players. And this means that everyone at the table or discord call, will have to be responsible with it. Take care not to hog the spotlight, let others have their Moments™. Or have them together!

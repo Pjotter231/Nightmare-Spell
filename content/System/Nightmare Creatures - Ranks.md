@@ -1,4 +1,5 @@
-Nightmare creatures do not have to roll these die always. Exceptions can be made for specifically more glass cannon or perhaps tankier but less hard hitting creatures. Or for example Devils having special abilities outside of these die.
+
+A reference table on how to roll damage.
 
 | Nightmare Creatures |          |            |                         |
 | ------------------- | -------- | ---------- | ----------------------- |
@@ -11,3 +12,4 @@ Nightmare creatures do not have to roll these die always. Exceptions can be made
 | Great               | 1d20     | Tyrant     | 5                       |
 | Cursed              | 1d30     | Terror     | 6                       |
 | Unholy              | 1d40     | Titan      | 7                       |
+Nightmare creatures do not have to roll these die always. Exceptions can be made for specifically more glass cannon or perhaps tankier but less hard hitting creatures. Or for example Devils having special abilities outside of these die.

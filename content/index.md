@@ -12,19 +12,21 @@ Their Aspect & Flaw and their Experiences.
 Further it uses mainly [[Daggerheart]] for other mechanics such as combat, action rolling etc etc. These are then tweaked to better suit the Nightmare Spell TTRPG.
 
 ## Start reading
-If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for more specific 
-## System
+If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom.
 
-- [[System/Stats|Stats]]
-- [[System/Ranks|Ranks]]
-- [[System/Combat Action Economy|Combat Action Economy]]
-- [[System/Experience|Experience]]
-- [[System/Nightmare Creature|Nightmare Creature]]
-- [[System/Nightmare Creatures - Ranks|Nightmare Creatures - Ranks]]
+The site
+## System
+### Basics
 - [[System/Aspects & Flaws|Aspects & Flaws]]
-- [[System/Tarot Cards|Tarot Cards]]
+- [[System/Experience|Experience]]
+- [[System/Stats|Stats]]
+- [[System/Combat Action Economy|Combat Action Economy]]
+- [[System/Nightmare Creature|Nightmare Creature]]
+
+### DM stuff
+- TODO
+
 
 ## References
-
-- [[Daggerheart|Daggerheart]]
+- [[Daggerheart]]
 

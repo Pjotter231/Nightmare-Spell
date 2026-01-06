@@ -13,7 +13,7 @@ Once all body chunks are marked off your evasion will be halved. Making you easi
 ##### Out of Soul
 Once all soul chunks are used using essence will damage you. The damage will count as bodily damage and be half of the essence spend rounded up. (E.g. 3 spend = 2 chunks of body damage)
 #### **Fate**
-**Fate** is a special bar. You will only mark of fate chunks when one of your primary (MBS) bars is depleted but you continue taking further damage. Upon taking an instance of damage to your fate bar, regardless of how many chunks are marked off, you will draw one of the [[Tarot Cards]]. Tarot cards can have either positive or negative effects that will affect you or the battle in some way.
+**Fate** is a special bar. You will only mark of fate chunks when one of your primary (MBS) bars is depleted but you continue taking further damage. Upon taking an instance of damage to your fate bar, regardless of how many chunks are marked off, you will draw one of the [[Tarot Cards]]. (still debating on the whole tarot mechanic) Tarot cards can have either positive or negative effects that will affect you or the battle in some way.
 ##### Out of Fate
 Once you are out of fate your luck has almost run dry and you will faint. You will start making Fate rolls to determine if you are meant to slowly bleed out, die or perhaps regain conscious to continue to fight. Other players can help stabilize you at the cost of an action.
 
