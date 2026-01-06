@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Nightmare Spell TTRPG",
+    pageTitleSuffix: "By Pjotter",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
