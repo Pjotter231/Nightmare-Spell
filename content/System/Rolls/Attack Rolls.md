@@ -2,6 +2,7 @@ At some point you may fail to remain undetected, or your charisma wasn't as good
 
 First you're going to need to hit your target. You can do so by succeeding* an attack roll.
 
+\*to various degrees of success
 # So, Attack Rolls, huh?
 And how they're a little different yet maybe familiar.
 
@@ -29,17 +30,19 @@ Injuries matter (for opponents I haven't decided on if I want to make you suffer
 ## Be smart. Be safe. Be the last one standing, together
 With your allies!
 
-As mentioned earlier difficulty is situational. Create opportunities! Distract a hostile whilst your ally flanks it to hit its glowing crystals on its back! Lead a monster into quick sand you totally found on purpose earlier.  Be smart, be creative. Think about what YOU want to do first before you think about the dice. Your GM will tell you when and if you'll need them.
+As mentioned earlier difficulty is situational. Create opportunities! Distract a hostile whilst your ally flanks it to hit its glowing crystals on its back! Lead a monster into the quick sand you totally found on purpose earlier.  Be smart, be creative. Think about what YOU want to do first before you think about the dice. Your GM will tell you when and if you'll need them.
 
 # What if I Miss?
-If you decide to try and hit a hard to hit a spot. Then your GM would decide how the creature would prevent the hit. Would it have dodged? Would it have simply resisted the hit?
+If you decide to try and hit a hard to hit a spot but don't make the DC. Then your GM would decide how the creature would prevent the hit. Would it have dodged? Would it have simply resisted the hit?
 
 Was it close? Then your GM might decide that it blocked by sacrificing it's paw, or tilted its head so it hit it's shoulder. Nightmare spell is a dynamic TTRPG focused on story telling. Not an excel sheet where only numbers matter. Someone should've told this to the guy who wrote a whole bot just to calculate those numbers easier huh? 
 
-Rule of thumb: if you miss a harder to hit part, but your roll was high enough to still hit the 'base DC' of the Nightmare creature, your GM will let you hit, graze or otherwise still attempt to wound a another (potentially more armoured) part of the creature. So you can still succeed*
+Rule of thumb: if you miss a harder to hit part, but your roll was high enough to still hit the 'base DC' of the Nightmare creature, your GM will let you hit, graze or otherwise still attempt to wound  another (probably more armoured) part of the creature. So you can still succeed*
+
+\*to various degrees of success
 
 ### Hope and Fear
-Hope and Fear still come into play. A successful hit with Fear might result in a counter attack. Or a fail with Hope could grab the monsters attention and give someone else a great opportunity. If you want to read more about this, go and read the [[Combat Action Economy]] chapter.
+Hope and Fear still come into play. A successful hit with Fear might result in a counter attack. Or a failure with Hope could grab the monsters attention and give someone else a great opportunity. If you want to read more about this, go and read the [[Combat Action Economy]] chapter.
 
 # So basically:
 To summarize:

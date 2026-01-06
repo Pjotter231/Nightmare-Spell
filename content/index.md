@@ -15,11 +15,15 @@ Further it uses mainly [[Daggerheart]] for other mechanics such as combat, actio
 If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom.
 
 The site
-## System
-### Basics
+
+# Lore
+- TODO
+# System
+#### Basics
 - [[System/Aspects & Flaws|Aspects & Flaws]]
 - [[System/Experience|Experience]]
 - [[System/Stats|Stats]]
+- [[Rolling with Hope and Fear]]
 - [[System/Combat Action Economy|Combat Action Economy]]
 - [[System/Nightmare Creature|Nightmare Creature]]
 

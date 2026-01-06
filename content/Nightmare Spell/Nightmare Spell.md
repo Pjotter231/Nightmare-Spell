@@ -7,6 +7,9 @@ Before you start a reading tip: Use the backlink on the right side to find your 
 
 - [[Aspects & Flaws]]
 - [[Experience]]
-
+- [[Rolling with Hope and Fear]]
+	- [[Action Rolls]]
+	- [[Attack Rolls]]
+- [[Combat Action Economy]]
 ## Character creation:
 To create a character

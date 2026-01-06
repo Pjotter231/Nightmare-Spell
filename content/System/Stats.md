@@ -1,4 +1,4 @@
-Player characters have five main stats. They start of with +2 +1 +0 -1 -2 to four of these stats. The five main stats are:
+Player characters have six main stats. They start of with +2 +1 +0 -1 -2 to four of these stats. The six main stats are:
 ##### **Agility (Sprint, Parkour)**
 High agility makes you faster, more mobile, quicker to react to danger. Used during acrobatic actions, jumping behind cover or dodging a trap.
 ##### **Strength (Smashing, Lifting)**

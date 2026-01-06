@@ -1,4 +1,4 @@
- This is a second example like in [[Rolling with Hope and Fear]] however going more through combining everything you've read so far.
+This is a second example like in [[Rolling with Hope and Fear]] however going more through combining everything you've read so far.
 
 In each scene, the GM and players go back and forth describing what happens. If you make a move where the outcome is in question, and the success or failure of that move is interesting to the story, your move is an action and the GM calls for an action roll to determine the outcome. However, if an action is either easy to pull off without complication or impossible to perform,  here’s no need to roll. You know the result already after all!
 
