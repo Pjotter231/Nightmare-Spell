@@ -1,5 +1,14 @@
-At some point you may fail to remain undetected, or your charisma wasn't as good as you thought. And you're going to need to fight your way out (or into) the situation.
 
-First you're going to need to hit your target, you'll need to succeed an [[Attack Rolls|attack roll]] against your target. This can either be a [[Nightmare Creature]] or a fellow Awakened. You wouldn't hit a mundane would you?
+Okay so you've hit your target, now to deal some damage. This is straight forward. Simply apply the weapon damage or otherwise special attack damage.
 
-Okay so you've hit your target
+More is to be written on this but basically enemies also have [[Damage Reduction]] depending on where you hit. 
+
+Unlike you where you most likely have a balanced amount of Mind, Body and Soul chunks, Nightmare creatures have body parts that can be individually damaged. When either a vital part, or enough parts have been damaged the creature dies. Either from a dagger to the brain or from blood loss.
+
+Most nightmare creatures still only have one soul and one mind. These are not tracked per part. Nor do they have fate chunks that make them draw tarot cards (if I'm still doing that). 
+
+Part type examples:
+- Wings -> When damaged enough prevents flight
+- Legs -> Reduce or prevent walking speed
+- Back -> Armour breaks when body broken allowing more damage to be done or more vulnerable parts such as the heart or lungs be reached more easily.
+These are examples and there will be many more types that either you or the GM thinks of. If you have a suspicion that this creature might be weak in the gems (crystal not family jewels) try it!
