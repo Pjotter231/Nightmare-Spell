@@ -1,3 +1,4 @@
+WIP: Unsure if I'll use this
 
 A reference table on how to roll damage.
 
