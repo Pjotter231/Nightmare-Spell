@@ -16,7 +16,7 @@ Despite being hosted publicly, I'm making this pretty much for friends only so t
 
 ## Start reading
 **TTRPG System**
-If you want to start reading into the system please start with [[Nightmare Spell TTRPG]], this will give you a hopefully logical order to read about the system.
+If you want to start reading into the system please start with [[Nightmare Spell TTRPG]], this will give you a hopefully logical order to read about the system. Yes I am aware I have written Aspect and Flaws twice but its both an in game system and important to the lore of the world.
 
 **Lore**
 When more interested in the [[Earth History|history of Earth]] or the [[Nightmare Spell]] this will be where you'll find it. I've also various terms and explained them here. This is by far from complete, both because it is being written still and to intentionally leave out points of information for the players (you guys) to discover.
@@ -25,13 +25,14 @@ When more interested in the [[Earth History|history of Earth]] or the [[Nightmar
 I've nothing written about this yet, and I don't know if I will here.
 
 **Tabs**
-If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom. Please feel free, rather please DO ask me questions when you aren't sure about what something is or how it works, I'll answer and add it here!
+If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom. Please feel free, rather please DO ask me questions when you aren't sure about what something is or how it works, I'll answer and add it here! 
 
 # Lore
 **Containing information on the world itself, the history and various terms explained. Also explains the Spell system, however doesn't go over the TTRPG mechanics.**
 - [[Earth History]]
 - [[Nightmare Spell]]
 	- [[Awakened]]
+		- - [[Aspects & Flaws|Aspects & Flaws]]
 	- [[Nightmare Creatures]]
 	
 # System
