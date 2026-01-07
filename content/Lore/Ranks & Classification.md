@@ -19,7 +19,7 @@ More on this can be read [[Nightmare Creatures|here]] where more details on nigh
 | Cursed              | Spirit           | Sacred      | Terror    | 6           |
 | Unholy              | God              | Divine      | Titan     | 7           |
 # Path of Ascension and Corruption
-The only difference between human and nightmare creatures is that humans walk the path of ascension, ever getting closer to godhood. Human Transcended, also called Saints, for example are also referred to as minor demi-gods as their strength rivals that of one.
+The difference between human and nightmare creatures' classification is that humans walk the path of ascension, ever getting closer to godhood. Human Transcended, also called Saints, for example are also referred to as minor demi-gods as their strength rivals that of one.
 
 [[Nightmare Creatures]] however walk the path of corruption, ever getting closer to the unholy rank. Though their strength is not any lesser than that of those of the same rank in ascension, their mind is bend towards extinguishing the flame in those walking the path of ascension.
 

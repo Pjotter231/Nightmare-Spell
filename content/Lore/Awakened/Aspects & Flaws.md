@@ -24,7 +24,7 @@ Flaws can either be a roleplay aspect of your character, such as Sunny's (who gr
 
 Flaws are also discussed with the GM to both match your character (or rather be the opposite to be specifically a hassle for your character). 
 
-# Extreme Freedom
+## Extreme Freedom
 You are given extreme freedom in your choice for power, hence why everything is to be discussed with the GM (me writing this). I'd love it if you kept in mind that this will still be a co-operative story telling game. And that everyone at the table has to have fun. Trying to make yourself ultra powerful can make others feel as side-characters. 
 
 The GM (still me writing this) will try to work with you to make your power fantasy real. But don't go overboard and especially remember that starting as a sleeper you will be far from truly powerful, and most likely very pathetic when compared to anything not human.

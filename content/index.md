@@ -45,9 +45,9 @@ If you are looking for something specifically, please use the tabs on the left, 
 - [[System/Combat Action Economy|Combat Action Economy]]
 - [[Nightmare Creatures|Nightmare Creatures]]
 
-### DM stuff
+# DM stuff
 - TODO, you can find it but it just didn't think it necessary to link it here
 
-## References
+# References
 - [[Daggerheart]]
 
