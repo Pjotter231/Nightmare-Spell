@@ -5,7 +5,7 @@ Upon beating the first nightmare trial you gain your aspect & flaw.
 Both are are chosen in discussion with the DM. You can picture Aspects & Aspect abilities as superpowers and can come in many different shapes. 
 
 ### Aspect 
-Aspects are the general 'vibe' you are going with. Where as aspect abilities are direct powers your character will have. These can be passive or active, or perhaps both in some cases.
+Aspects are the general 'vibe' you are going with. Where as aspect abilities are direct powers your character will have. These can be passive or active, or perhaps both in some cases. When described by [[The Spell]] both Aspects and Flaws may be explained cryptically or not cover it totally.
 
 Below are example character(s) taken from the Novel this system is inspired by.
 
@@ -13,8 +13,10 @@ Below are example character(s) taken from the Novel this system is inspired by.
 **Aspect**: Shadow
 **Dormant Aspect ability**: Your shadow becomes your companion.
 Allows you to see through the eyes of your shadow and control it or actively to empower yourself or your equipment.
-**Flaw**: Cannot lie and obligated to answer any question
+**Flaw**: Clear Conscious
+**Description**: You cannot lie
 
+However he can still lie by omission, or deceive people by letting them come to false conclusions. But his Flaw also makes him obligated to reply to any question. Neither are stated in the description.
 ### Flaw
 Flaws are the other side of the coin. Your character will have a flaw. In a very literal sense of it. Whatever it will be, it will be unable to broken by your character under any circumstance.
 

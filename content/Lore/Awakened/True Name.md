@@ -1,0 +1,1 @@
+A True name is the name of a creature or thing that embodies the very thing that it is. It is usually only given to those by the Spell who are truly exceptional. 

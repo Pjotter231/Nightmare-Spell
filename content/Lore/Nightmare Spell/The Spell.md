@@ -1,0 +1,3 @@
+The spell is an entity, or system which purpose or origin are unknown. It assists [[Awakened]] by translating any language to one they can understand, informs them about changes to their being and rewards and tells them about Nightmare creatures they have slain.
+
+It also provides Awakened with mental runes to read more about their [[Aspects & Flaws]]. As well as  [[Memories]] or [[Echoes]] they have gained and their attributes. It often does so in a cryptic way that does not directly explain what they do or any hidden functions that aren't immediately obvious.

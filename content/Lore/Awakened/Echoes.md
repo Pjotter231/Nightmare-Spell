@@ -1,0 +1,3 @@
+Echoes are like [[Memories]] that they are given by [[The Spell]] as a reward for slaying Nightmare Creatures. But Echoes are usually an 'echo' of the creature that was killed. They have the same but reduced powers as the slain creature. They also are significantly rarer.
+
+Echoes can be build by very few Awakened with aspects suited towards it, however the process is extremely expensive and slow. Usually only one can be made per month if a skilled smith worked on it.

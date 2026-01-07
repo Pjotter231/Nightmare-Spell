@@ -1,6 +1,6 @@
 Damage is marked of as chunks. However incoming damage won't directly correlate to how many chunks to mark off.  [[Health|Mind, Body and Soul chunks]] have the ability to reduce damage taken. 
 
-You will most likely have some resistances per damage type. At least to body to start. These will grow as you get gear or increase your [[Ranks & Classification]].
+You will most likely have some resistances per damage type. At least to body to start. These will grow as you get gear or increase your rank and or classification.
 
 Below is an example damage table of a Sleeper wearing [[Ranks & Classification|dormant]] leather armour. A sleeper does not yet have a lot of gear to increase their mind & soul resistance. However their leather armour is giving them some physical resistance. 
 

@@ -15,16 +15,32 @@ Further it uses mainly [[Daggerheart]] for other mechanics such as combat, actio
 Despite being hosted publicly, I'm making this pretty much for friends only so this might be missing (a lot of) information if you came across this and are intending to run a game yourself. I'll most likely not post much GM help here as I honestly want to keep it a secret to the players.
 
 ## Start reading
-If you want to start reading into the system please start with [[Nightmare Spell]], this will give you a hopefully logical order to read about the system. If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom.
+**TTRPG System**
+If you want to start reading into the system please start with [[Nightmare Spell TTRPG]], this will give you a hopefully logical order to read about the system.
+
+**Lore**
+When more interested in the [[Earth History|history of Earth]] or the [[Nightmare Spell]] this will be where you'll find it. I've also various terms and explained them here. This is by far from complete, both because it is being written still and to intentionally leave out points of information for the players (you guys) to discover.
+
+**DM info**
+I've nothing written about this yet, and I don't know if I will here.
+
+**Tabs**
+If you are looking for something specifically, please use the tabs on the left, or alternatively click the incomplete list on the bottom. Please feel free, rather please DO ask me questions when you aren't sure about what something is or how it works, I'll answer and add it here!
 
 # Lore
-- TODO, but I'm debating only telling you about the human world
+**Containing information on the world itself, the history and various terms explained. Also explains the Spell system, however doesn't go over the TTRPG mechanics.**
+- [[Earth History]]
+- [[Nightmare Spell]]
+	- [[Awakened]]
+	- [[Nightmare Creatures]]
+	
 # System
+**Goes over the TTRPG mechanics**
 #### Basics
-- [[System/Aspects & Flaws|Aspects & Flaws]]
+- [[Aspects & Flaws|Aspects & Flaws]]
 - [[System/Experience|Experience]]
-- [[System/Stats|Stats]]
 - [[Rolling with Hope and Fear]]
+- [[System/Stats|Stats]]
 - [[System/Combat Action Economy|Combat Action Economy]]
 - [[Nightmare Creatures|Nightmare Creatures]]
 

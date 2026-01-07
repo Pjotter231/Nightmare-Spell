@@ -1,0 +1,3 @@
+Shards that remain inside slain [[Nightmare Creatures]] their bodies. The amount and rank depend on the Creatures [[Ranks & Classification|Rank and Classification]]
+
+These can be used to gain shards, up to 2000 per core. Divine Aspect users may oversaturate their cores to grow additional cores up to seven. Absorbing shards of higher rank has increased effect, whilst absorbing those of lower has diminishing effects.
