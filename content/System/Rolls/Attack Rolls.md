@@ -49,4 +49,4 @@ To summarize:
 1. Decide where to hit
 2. Roll an Attack Roll (Action Roll but with Proficiency)
 3. Pray to hit
-4. [[Dealing some Damage!]]
+4. [[Dealing some Damage!]] ([[Damage Rolls]])

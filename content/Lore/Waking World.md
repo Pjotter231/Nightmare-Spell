@@ -1,0 +1,1 @@
+The waking world is another name for Earth and the realm that is occupies.

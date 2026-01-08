@@ -11,7 +11,7 @@ And just as the planet was recovering from all those disasters, both man made an
 ### Nightmare Spell
 ![[Nightmare Spell]]
 
-## The new Goverment
+## The new Government
 The government quickly fell as superpowered humans rose to strength. Many warlords came and went until larger groups of people who had gained powerful aspects gathered and created a more stable power. The government stepped back and handled administrative duties while the Awakened with especially powerful Aspects, now called Legacies, took over as the ruling force to keep people safe from both Nightmare creatures and other humans. For what chance stood the mundane police force when an awakened with a defensive Aspect could shrug of bullets?
 ## Nightmare Gates
 During this time many cities fell to Nightmare creatures, so megacities were built with massive walls to gather people in easily defended locations. Nightmare gates began appearing, releasing creatures that attacked anyone nearby. Eventually gates could appear inside cities, any Awakened who fell asleep near one would be dragged in, usually to die. 

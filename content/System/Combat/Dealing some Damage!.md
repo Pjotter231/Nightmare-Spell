@@ -13,3 +13,6 @@ Part type examples:
 - Back -> Armour breaks when body broken allowing more damage to be done or more vulnerable parts such as the heart or lungs be reached more easily.
 
 These are examples and there will be many more types that either you or the GM thinks of. If you have a suspicion that this creature might be weak in the gems (crystal not family jewels) try it!
+
+![[Damage Rolls]]
+

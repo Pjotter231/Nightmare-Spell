@@ -13,4 +13,4 @@ Nightmare creatures come in varying shapes forms and [[Ranks & Classification|ra
 | Titan   | Titans are an exception to the rule where previous classes take previous ones a step further. These often no longer surround themselves by minions under their control, and are simply power itself. <br>Weaker nightmare creatures might still flock to it however.                                                                                   |
 
 ### Slain Nightmare Creatures
-Nightmare creatures slain by [[Awakened||carriers of the Nightmare Spell]] may be granted a 
+Nightmare creatures slain by [[Awakened||carriers of the Nightmare Spell]] may be granted a [[Memories|Memory]] or [[Echoes|Echo]] by [[The Spell|the Spell]]. Beyond these rare items they can be butchered for valuable parts, meat if safe to eat and last but definitely not least [[Soul Shards]].  

@@ -5,3 +5,5 @@ Any memory will be summoned as if worn or carried if possible. They can come in 
 Memories have Attributes that give these items mystical powers (beyond being able to be summoned from nothing).
 ## Attributes
 Attributes are like Aspects, as they determine what power a Memory has. When described by the Spell they are often vague or cryptic and might not cover the full range of the abilities. For example an attribute "Moon Blade" could mean anything. It is often up to the Awakened to find out what it means, or find an awakened with some kind of divination or identification aspect.
+
+The GM will not tell you about any of these effects until they are triggered. Only then will you be given a detailed description of it's effects. 

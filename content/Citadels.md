@@ -1,0 +1,1 @@
+Places in the [[Dream Realm]] that contain an object to allow [[Awakened]] to return to the [[Waking World]]. These locations are often taking the shape of ruined fortresses or recognizable landmarks.
