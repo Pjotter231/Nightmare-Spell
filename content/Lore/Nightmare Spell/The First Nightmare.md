@@ -10,3 +10,8 @@ Theories on what counts vary wildly, but Sleepers have started to aim to try and
 What Awakened have been able to confirm however that all First Nightmares, as far as can be tracked down, are events that have already occurred. Even though a Sleeper might have been able to assassinate a king in their Nightmare, the ruins of the fallen kingdom remain ruins and history will not be rewritten.
 
 That is not to say that those who manage to greatly change the outcome of an event are not rewarded however.
+
+## Consequences of Failure
+Sleepers that don't beat their first nightmare by dying in it also die in the waking world as their body turns into a Nightmare creature. This was actually the first disaster the Nightmare Realm brought when there weren't even gates yet, as people would appear comatose and suddenly turn into monsters. 
+
+Other Sleepers that did not die in their nightmare but never ended up beating them are usually held in hospitals in special life sustaining pods as their family hopes they manage to make it out whilst their body remains asleep. These people are referred to as Hollow.
