@@ -1,4 +1,4 @@
-The first Nightmare is a place that is most commonly believed to be the ancient past of the [[Dream Realm]]. Sleepers find themselves in a different body not their own. Though usually resembling their previous physique roughly. 
+The first [[Nightmare]] is a place that is most commonly believed to be the ancient past of the [[Dream Realm]]. Sleepers find themselves in a different body not their own. Though usually resembling their previous physique roughly. 
 
 Commonly Sleepers are trust into events that shaped the future of the Dream Realm in one way or the other. Though the role of the body that the sleeper is thrust into does not have to appear impactful and ranges from Sleeper to Sleeper. 
 
