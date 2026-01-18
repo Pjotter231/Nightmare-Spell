@@ -21,10 +21,10 @@ However he can still lie by omission, or deceive people by letting them come to 
 **Description**: Your time is fleeting
 
 Using their aspect ability rapidly ages them, a devastating Flaw that can cost their own life with wanton or extended use of their aspect ability.
-
-# Dirk
+### Dirk
 **Aspect**: Sixth sense
 **Aspect Rank**: Supreme
+
 **Dormant Aspect ability**: A Hunch
 **Description**: You are usually right on the money
 
@@ -34,8 +34,7 @@ Gives an uncanny sense of what the intentions of people are, where to go and whe
 **Description:** You are out of breath longer and more often.
 
 Note; Any exercise takes more out of them and they take longer to recover from it.
-
-# Serana
+### Serana
 **Aspect**: Vampiric Leech
 **Aspect Rank:** Transcended
 
@@ -50,8 +49,7 @@ Gives the ability to drink blood of living creatures to empower themselves.
 Flaw note; Sleeper is no longer able to eat normal food and instead is fully depended on Blood. 
 
 General note: Aspect abilities also allow you to become less human. Even when not yet a Saint. As example here above. 
-
-# Bob
+### Bob
 **Aspect**: Flame's Love
 **Aspect Rank**: Awakened
 
@@ -62,8 +60,7 @@ General note: Aspect abilities also allow you to become less human. Even when no
 **Description**: You are easily angered
 
 Note; Sleeper is very easily angered, by people, minor inconveniences etc. 
-
-# Alice
+### Alice
 **Aspect**: The Wall
 **Aspect Rank**: Ascended
 
@@ -75,4 +72,5 @@ They can harden themselves, sacrificing mobility for sturdiness.
 **Flaw**: Easy going
 **Description:** You can't hold opinions of your own
 
-Note; Sleeper becomes completely incapable of having an opinion of their own on anything. Unable to like or dislike things themselves. Unable to care either way about anything.
+Note; Sleeper becomes completely incapable of having an opinion of their own on anything. 
+unable to like or dislike things themselves. Unable to care either way about anything.
