@@ -11,10 +11,15 @@ Below are example character(s) taken from the Novel this system is inspired by.
 
 **Sunny**:
 **Aspect**: Shadow
+**Aspect Rank**: Divine
+
 **Dormant Aspect ability**: Your shadow becomes your companion.
-Allows you to see through the eyes of your shadow and control it or actively to empower yourself or your equipment.
+**Description** Allows you to see through the eyes of your shadow and control it or actively to empower yourself or your equipment.
+
 **Flaw**: Clear Conscious
 **Description**: You cannot lie
+
+However he can still lie by omission, or deceive people by letting them come to false conclusions. But his Flaw also makes him obligated to reply to any question. Neither are stated in the description.
 
 However he can still lie by omission, or deceive people by letting them come to false conclusions. But his Flaw also makes him obligated to reply to any question. Neither are stated in the description.
 ### Flaw
