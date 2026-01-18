@@ -1,1 +1,1 @@
-The waking world is another name for Earth and the realm that is occupies.
+The waking world is another name for Earth and the realm that is occupies. It has a long history of War and Starvation. It's most recent struggles against the [[Nightmare Spell]] has however united it.

@@ -22,7 +22,6 @@ More on this can be read [[Nightmare Creatures|here]] where more details on nigh
 The difference between human and nightmare creatures' classification is that humans walk the path of ascension, ever getting closer to godhood. Human Transcended, also called Saints, for example are also referred to as minor demi-gods as their strength rivals that of one.
 
 [[Nightmare Creatures]] however walk the path of corruption, ever getting closer to the unholy rank. Though their strength is not any lesser than that of those of the same rank in ascension, their mind is bend towards extinguishing the flame in those walking the path of ascension.
-
 # Humans
 Normally humans are unable to gain more soul cores, however rare cases do exist. Ones where humans received a Divine aspect, which allows them to over saturate their cores to gain new ones.
 Unlike [[Nightmare Creatures]] this does not give them the same supernatural powers. It does however extend their aspect. Potentially increasing the range, power or quantity etc etc of their abilities. 

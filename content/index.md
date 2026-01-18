@@ -1,6 +1,20 @@
 ---
 title: Welcome to Nightmare Spell
 ---
+A slight pull stirs you awake causing you to slowly open your eyes. As you do you find yourself drifting in darkness. Or perhaps not drifting, its hard to tell without having a point of reference. You feel no floor, no gravity, no cold no warmth, no breeze. Nothing but darkness.
+
+ As you contemplate this the feeling of someone looking at your shivers across your spine. Turning around to take a look, you realize that it was not darkness surrounding you, simply the absence of anything else. 
+
+Two abyssal eyes bore into you. Four large tusks crossing each other twisting outwards from its closed mouth. A mask is hovering just in front of your face, dark and reflective as if carved from obsidian. A spike juts from it's forehead reaching halfway of the two large horns spiralling upwards from it that disappear into dark.
+
+You reach out, touching nothing, as your hand only visually blocks a part of it. The mask was never hovering right in front of you, it was simply impossibly vast.
+
+A thousand voices speak out, the sound hitting you like a physical wave washing over you. Startling you wide awake, sweating and heart beating in your chest. 
+
+You're in your bed, sitting upright. 
+
+A nightmare.
+
 # Nightmare Spell
 Inspired by the web novel Shadow Slave
 
@@ -32,7 +46,7 @@ If you are looking for something specifically, please use the tabs on the left, 
 - [[Earth History]]
 - [[Nightmare Spell]]
 	- [[Awakened]]
-		- - [[Aspects & Flaws|Aspects & Flaws]]
+		- [[Aspects & Flaws|Aspects & Flaws]]
 	- [[Nightmare Creatures]]
 	
 # System
