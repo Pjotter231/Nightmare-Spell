@@ -54,6 +54,7 @@ If you are looking for something specifically, please use the tabs on the left, 
 #### Basics
 - [[Aspects & Flaws|Aspects & Flaws]]
 - [[System/Experience|Experience]]
+- [[Character Creation]]
 - [[Rolling with Hope and Fear]]
 - [[System/Stats|Stats]]
 - [[System/Combat Action Economy|Combat Action Economy]]

@@ -1,3 +1,5 @@
+W.I.P. Need to add more system specific stuff like [[Experience]] still
+
 Alright so you understand the world, and maybe even read a bit of the system already. To get started here I heavily suggest or rather expect you to have read [[Earth History]] and it's related articles so you got a rough basis of where your character will even live or have lived.
 
 Beyond that if you want to understand and co-operate on step 3 then [[Aspects & Flaws]] is very useful! Alright with steps mentioned here they are:
