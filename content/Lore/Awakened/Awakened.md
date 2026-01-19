@@ -14,4 +14,4 @@ Awakened come in seven different ranks. As mentioned in [[Ranks & Classification
 | Sacred      | Spirit     | -                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Divine      | God        | -                                                                                                                                                                                                                                                                                                                                                                                                      |
 ## Ranking up
-To rank up one must challenge a [[Nightmare]] by taking on either a [[Nightmare Gate]] or [[Nightmare Seed]].
+Awakened that want to rank up challenge a [[Nightmare]] by taking on either a [[Nightmare Gate]] or [[Nightmare Seed]].

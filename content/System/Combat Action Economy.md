@@ -20,6 +20,8 @@ You'd also look at your actions and bonus actions. And can I still offhand attac
 
 You'd do some really cool acrobatics and stab a bandit chief in the skull! Aaaand then throw a dagger at a random thief nearby because fuck it, I have an action left. Deluting your initial intend to satisfy the inner minmaxxer.
 - You no longer 'have to' get the optimal useage out of all your actions. You can just do what you want to do.
+## Rule of Thumb
+Generally one attack per arm or able limb is a safe bet plus some movement and whatever else is appropriate. Though if you think, and the rest of the table agrees, that more is fitting then by all means go for it! 
 
 ## With great power...
 Now this puts a LOT of agency in the hands of players. And this means that everyone at the table or discord call, will have to be responsible with it. Take care not to hog the spotlight, let others have their Moments™. Or have them together!
