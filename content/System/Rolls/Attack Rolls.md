@@ -9,7 +9,7 @@ And how they're a little different yet maybe familiar.
 When attacking, we don't just swing at a Nightmare creature or Awakened and pray we hit. We aim for a certain area of them and only THEN we pray we hit.
 
 Attack rolls work the exact same as [[Action Rolls]] as in you still roll duality dice and apply your experiences, advantages, aspect dice etc. You also get to add your [[Weapon Proficiency]] now. However what is most different is localized damage. Or part or limb damage if that makes more sense in your mind.  
-## Localized? You mean my language?
+## Localized? You mean my in language?
 No, not in your language. But based on where you aim. Enemy combatants will be easier to hit depending on where you try to hit them (and where from). They will also take less or more damage depending on where you hit them.
 
 Their eyes? OUCH! But first TRY and hit it. Most beings will try their hardest to defend their head and eyes by dodging or blocking. Perhaps they'll sacrifice their arm to avoid decapitation!
@@ -42,6 +42,7 @@ Rule of thumb: if you miss a harder to hit part, but your roll was high enough t
 
 ### Hope and Fear
 Hope and Fear still come into play. A successful hit with Fear might result in a counter attack. Or a failure with Hope could grab the monsters attention and give someone else a great opportunity. If you want to read more about this, go and read the [[Combat Action Economy]] chapter.
+
 # I can only hit one enemy per Attack?
 Yes and no, this depends on the [[Memories|Memory]] type you are using and of course the  memories Attributes.
 
