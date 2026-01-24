@@ -26,7 +26,7 @@ A Saint like a Master can move at will between realms.
 ### What
 Like a Master their body is fused and will move between realms leaving nothing behind. However they can also bring other's with them, serving as a miniature temporary Gateway. This is extremely straining and is usually limited to only one other Awakened. Or a few Masters / Saint's. Awakened are more straining, which is to be believed because Masters and Saints already always bring their body with them.
 ### How to Return
-Saint's can move freely between worlds, acting as a miniature Gateway themselves they no longer need a Citadel Gateway.
+Saint's can move freely between worlds, acting as a miniature Gateway themselves they no longer need a Citadel Gateway. They can also tether themselves to any location within the Dream Realm, though many still choose Citadels as they are often a safe returning location.
 
 # Infographic on Realm movement
 ![[Realm Movement Infographic.png]]
