@@ -9,7 +9,7 @@ And how they're a little different yet maybe familiar.
 When attacking, we don't just swing at a Nightmare creature or Awakened and pray we hit. We aim for a certain area of them and only THEN we pray we hit.
 
 Attack rolls work the exact same as [[Action Rolls]] as in you still roll duality dice and apply your experiences, advantages, aspect dice etc. You also get to add your [[Weapon Proficiency]] now. However what is most different is localized damage. Or part or limb damage if that makes more sense in your mind.  
-## Localized? You mean my in language?
+## Localized? You mean in my language?
 No, not in your language. But based on where you aim. Enemy combatants will be easier to hit depending on where you try to hit them (and where from). They will also take less or more damage depending on where you hit them.
 
 Their eyes? OUCH! But first TRY and hit it. Most beings will try their hardest to defend their head and eyes by dodging or blocking. Perhaps they'll sacrifice their arm to avoid decapitation!

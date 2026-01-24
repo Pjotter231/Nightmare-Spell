@@ -10,7 +10,7 @@ More on this can be read [[Nightmare Creatures|here]] where more details on nigh
 | ------------------- | ---------------- | ----------- | --------- | ----------- |
 | Ranks               | Name             | Soul Rank   | Classes   | Soul Cores  |
 | (Quality)           | (By Humanity)    | (Quality)   | (Special) | (Qn Amount) |
-| -                   | Human            | -           | -         | -           |
+| -                   | Human / Mundane  | -           | -         | -           |
 | Dormant             | Sleeper          | Dormant     | Beast     | 1           |
 | Awakened            | Awakened         | Awakened    | Monster   | 2           |
 | Fallen              | Master           | Ascended    | Demon     | 3           |

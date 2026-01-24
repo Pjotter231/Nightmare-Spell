@@ -7,7 +7,7 @@ Below is an example damage table of a Sleeper wearing [[Ranks & Classification|d
 |          | Minor 1 | Moderate  2 | Major 3 | Massive 4 | **Lethal** 6 |
 | -------- | ------- | ----------- | ------- | --------- | ------------ |
 | **Mind** | 1       | 2           | 4       | 8         | 16           |
-| Body     | 2       | 4           | 6       | 12        | 20           |
+| Body     | 3       | 6           | 12      | 18        | 24           |
 | **Soul** | 1       | 1           | 2       | 2         | 4            |
 
 Body: Minor 2 - Moderate 4 - Major 6 - Massive 12 - Lethal 20
