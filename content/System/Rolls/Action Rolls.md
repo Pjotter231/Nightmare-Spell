@@ -28,4 +28,4 @@ Total: 14+3+2+1 = 20 with hope!
 We succeed easily making it up the river for... reasons! And we even gained our hope we spend on experience back!
 
 # CRITICAL HITS?!
-Rolling twice the same number on your die results in a critical hit. Two 1's. Two 2's Two 3's etc. All count as a critical hit. This means that you automatically succeed, get what you want and a little extra. You, and everyone who witnesses you act gains a Hope. If you made an [[Attack Rolls|Attack Rolls]] you also deal extra damage. More on that in the [[Dealing some Damage!]] segment later. Or now if you click the link.
+Rolling the same number twice on both Hope and Fear die results in a critical hit. Two 1's. Two 2's Two 3's etc. All count as a critical hit. This means that you automatically succeed, get what you want and a little extra. You, and everyone who witnesses you act gains a Hope. If you made an [[Attack Rolls|Attack Rolls]] you also deal extra damage. More on that in the [[Dealing some Damage!]] segment later. Or now if you click the link.

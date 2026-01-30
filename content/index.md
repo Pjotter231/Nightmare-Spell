@@ -53,11 +53,11 @@ If you are looking for something specifically, please use the tabs on the left, 
 **Goes over the TTRPG mechanics**
 #### Basics
 - [[Aspects & Flaws|Aspects & Flaws]]
-- [[System/Experience|Experience]]
+- [[Experience|Experience]]
 - [[Character Creation]]
 - [[Rolling with Hope and Fear]]
-- [[System/Stats|Stats]]
-- [[System/Combat Action Economy|Combat Action Economy]]
+- [[Stats|Stats]]
+- [[Combat Action Economy|Combat Action Economy]]
 - [[Nightmare Creatures|Nightmare Creatures]]
 
 # DM stuff
